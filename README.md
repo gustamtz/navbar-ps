@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/113216494/210267267-eb0cf23a-cef6-4a0d
 Barra de navegação responsiva desenvolvida com HTML, Tailwind CSS e JS.
 
 # Como usar
-Baixe o *zip* ou clone o repositório e abra o projeto no seu navegador.
+Baixe o `zip` ou clone o repositório e abra o `index.html` no seu navegador.
 
 # Por que? 
 Decidi desenvolver essa navbar para praticar meus conhecimentos em Tailwind CSS.
