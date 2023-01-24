@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/113216494/210267267-eb0cf23a-cef6-4a0d
 
 <br>
 
-## Acesse o projeto
+## Visualize o projeto
 Baixe o `zip` ou clone o repositório e abra o `index.html` no seu navegador.
 
 <br>
